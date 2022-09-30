@@ -76,6 +76,12 @@
     "Name":"one piece",
     "AnimeName":"crocodile",
     "Description":"Emperor of sea"
+  },
+  {
+    "id":13,
+    "Name":"Jujutsu kaisan",
+    "AnimeName":"crocodile",
+    "Description":"Number of jutsus"
   }
 
 ]
