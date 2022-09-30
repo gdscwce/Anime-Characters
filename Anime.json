@@ -24,52 +24,22 @@
         "Description": "Smart,calm,criminal,dead"
     },
     {
-        "id": 8,
-        "Name": "Deamon Slayer",
-        "AnimeName": "Deamon Slayer",
-        "Description": "Adventure fiction, Dark fantasy, Martial Art"
-    },
-    {
-        "id": 1,
-        "Name": "Goku",
-        "AnimeName": "Dragon Ball",
-        "Description": "Overpowered"
-    },
-    {
-        "id": 2,
-        "Name": "luffy",
-        "AnimeName": "One piece",
-        "Description": "Rubber man"
-    },
-    {
-        "id": 3,
-        "Name": "Naruto",
-        "AnimeName": "Naruto",
-        "Description": "Overpowered"
-    },
-    {
-        "id": 4,
-        "Name": "Light Yagame",
+        "id": 5,
+        "Name": "L Lawliet",
         "AnimeName": "Death note",
         "Description": "Smart,calm,criminal,dead"
     },
     {
-        "id": 5,
+        "id": 6,
         "Name": "Sakura",
         "AnimeName": "Naruto",
         "Description": "Medical ninja"
     },
     {
-        "id": 6,
+        "id": 7,
         "Name": "Ainz Ooal Gown",
         "AnimeName": "Overlord",
         "Description": "Creator of Pandora's Actor"
-    },
-    {
-        "id": 7,
-        "Name": "kakashi",
-        "AnimeName": "Naruto",
-        "Description": "Sensei,Cool,Strong,All Knowing"
     },
     {
         "id": 8,
@@ -79,26 +49,38 @@
     },
     {
         "id": 9,
-        "Name": "Itachi",
+        "Name": "Sakura",
         "AnimeName": "Naruto",
-        "Description": "ninja ,cold , teacher"
+        "Description": "Medical ninja"
     },
     {
         "id": 10,
+        "Name": "Itachi",
+        "AnimeName": "Naruto",
+        "Description": "Akatski Member, Brother of Sasuke, Clan Killer"
+    },
+    {
+        "id": 11,
         "Name": "Saitama",
         "AnimeName": "One Punch Man",
         "Description": "One Punch KO"
     },
     {
-        "id": 11,
-        "Name": "Crocodile",
-        "AnimeName": "One Piece",
+        "id": 12,
+        "Name": "one piece",
+        "AnimeName": "crocodile",
         "Description": "Emperor of sea"
     },
     {
-        "id": 12,
+        "id": 13,
+        "Name": "Jujutsu kaisan",
+        "AnimeName": "crocodile",
+        "Description": "Number of jutsus"
+    },
+    {
+        "id": 14,
         "Name": "Tanjirou",
         "AnimeName": "Demon Slayer",
         "Description": "Water Breathing User"
     }
-]   
+]
