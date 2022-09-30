@@ -5,6 +5,10 @@
     "AnimeName":"Dragon Ball",
     "Description":"Overpowered"
   },
-  {
+    {
+    "id":2,
+    "Name":"luffy",
+    "AnimeName":"One piece",
+    "Description":"Rubber man"
   }
 ]
