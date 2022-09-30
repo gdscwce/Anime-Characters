@@ -11,7 +11,7 @@
     "Name":"luffy",
     "AnimeName":"One piece",
     "Description":"Rubber man"
-  }
+  },
 
   {
     "id":3,
@@ -19,7 +19,6 @@
     "AnimeName":"Naruto",
     "Description":"Overpowered"
   },
-
   {
     "id":4,
     "Name":"Light Yagame",
@@ -27,16 +26,54 @@
     "Description":"Smart,calm,criminal,dead"
 
   },
- {
+  {
     "id":5,
+    "Name":"L Lawliet",
+    "AnimeName":"Death note",
+    "Description":"Smart,calm,criminal,dead"
+  },
+  
+  {
+    "id":6,
     "Name":"Sakura",
     "AnimeName":"Naruto",
     "Description":"Medical ninja"
   },
-{
-    "id":6,
+  
+  {
+    "id":7,
+    "Name":"Ainz Ooal Gown",
+    "AnimeName":"Overlord",
+    "Description":"Creator of Pandora's Actor"
+  },
+  {
+    "id":8,
+    "Name":"Ein Zhul Ghol",
+    "AnimeName":"Overlord",
+    "Description":"Sorcerer King"
+  },
+  {
+    "id":7,
     "Name":"Itachi Uchiha",
     "AnimeName":"Naruto",
     "Description":"prominent member of Akatsuki"
   },
+  {
+    "id":8,
+    "Name":"Itachi",
+    "AnimeName":"Naruto",
+    "Description":"Akatski Member, Brother of Sasuke, Clan Killer"
+  },
+  {
+    "id":8,
+    "Name":"Saitama",
+    "AnimeName":"One Punch Man",
+    "Description":"One Punch KO"
+  },
+{
+    "id":9,
+    "Name":"one piece",
+    "AnimeName":"crocodile",
+    "Description":"Emperor of sea"
+  }
 ]
