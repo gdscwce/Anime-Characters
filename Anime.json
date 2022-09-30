@@ -24,7 +24,12 @@
     "Name":"Light Yagame",
     "AnimeName":"Death note",
     "Description":"Smart,calm,criminal,dead"
-
+  },
+  {
+    "id":5,
+    "Name":"Ken Kaneki",
+    "AnimeName":"Tokyo Ghoul",
+    "Description":"Smart,Shy,Introvert,Ghoul,Hero"
   },
 
     "id":5,
@@ -32,8 +37,8 @@
     "AnimeName":"Attack On Titan",
     "Description":"Hardheaded, Strong-willed, Passionate, Impulsive"
   
-},
-    {
+   },
+   {
         "id": 1,
         "Name": "Goku",
         "AnimeName": "Dragon Ball",
