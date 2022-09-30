@@ -58,6 +58,18 @@
     "Name":"Sakura",
     "AnimeName":"Naruto",
     "Description":"Medical ninja"
+  },
+{
+    "id":6,
+    "Name":"Itachi",
+    "AnimeName":"Naruto",
+    "Description":"Akatski Member, Brother of Sasuke, Clan Killer"
+  },
+{
+    "id":69,
+    "Name":"Saitama",
+    "AnimeName":"One Punch Man",
+    "Description":"One Punch KO"
   }
 {
     "id":6,
