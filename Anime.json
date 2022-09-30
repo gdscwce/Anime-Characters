@@ -11,8 +11,7 @@
     "Name":"luffy",
     "AnimeName":"One piece",
     "Description":"Rubber man"
-  }
-
+  },
   {
     "id":3,
     "Name":"Naruto",
@@ -26,23 +25,28 @@
     "Description":"Smart,calm,criminal,dead"
   },
   {
+    "id":6,
+    "Name":"Nami",
+    "AnimeName":"One Piece",
+    "Description":"navigator,clever,cunning,bossy"
+  },
+  {
     "id":5,
     "Name":"Ken Kaneki",
     "AnimeName":"Tokyo Ghoul",
     "Description":"Smart,Shy,Introvert,Ghoul,Hero"
   },
-
+  {
     "id":5,
     "Name":"Eren Yeager,
     "AnimeName":"Attack On Titan",
     "Description":"Hardheaded, Strong-willed, Passionate, Impulsive"
-  
    },
    {
-        "id": 1,
-        "Name": "Goku",
-        "AnimeName": "Dragon Ball",
-        "Description": "Overpowered"
+     "id": 1,
+     "Name": "Goku",
+     "AnimeName": "Dragon Ball",
+     "Description": "Overpowered"
     },
     {
         "id": 2,
