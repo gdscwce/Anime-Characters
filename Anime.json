@@ -6,14 +6,14 @@
     "Description":"Overpowered"
   },
 
-    {
+  {
     "id":2,
     "Name":"luffy",
     "AnimeName":"One piece",
     "Description":"Rubber man"
-   }
+  }
 
-   {
+  {
     "id":3,
     "Name":"Naruto",
     "AnimeName":"Naruto",
