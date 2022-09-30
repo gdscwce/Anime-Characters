@@ -115,15 +115,15 @@
     },
     {
         "id": 2,
-        "Name": "luffy",
+        "Name": "boa hancock",
         "AnimeName": "One piece",
-        "Description": "Rubber man"
+        "Description": "emperor of sea"
     },
     {
         "id": 3,
-        "Name": "Naruto",
+        "Name": "Sasuke",
         "AnimeName": "Naruto",
-        "Description": "Overpowered"
+        "Description": "The Last Uchiha"
     },
     {
         "id": 4,
@@ -262,4 +262,4 @@
         "AnimeName": "Tsugumomo",
         "Description": "Anime Hero"
    }
-]
+   ]
