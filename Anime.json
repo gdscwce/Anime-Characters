@@ -31,5 +31,11 @@
     "Name":"Sakura",
     "AnimeName":"Naruto",
     "Description":"Medical ninja"
+  },
+{
+    "id":6,
+    "Name":"Itachi",
+    "AnimeName":"Naruto",
+    "Description":"Akatski Member, Brother of Sasuke, Clan Killer"
   }
 ]
