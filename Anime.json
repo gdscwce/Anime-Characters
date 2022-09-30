@@ -31,5 +31,11 @@
     "Name":"Sakura",
     "AnimeName":"Naruto",
     "Description":"Medical ninja"
+  },
+ {
+    "id":10,
+    "Name":"Ein Zhul Ghol",
+    "AnimeName":"Overlord",
+    "Description":"Sorcerer King"
   }
 ]
