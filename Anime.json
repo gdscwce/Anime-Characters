@@ -53,4 +53,10 @@
     "AnimeName":"Overlord",
     "Description":"Sorcerer King"
   }
+ {
+    "id":6,
+    "Name":"Sakura",
+    "AnimeName":"Naruto",
+    "Description":"Medical ninja"
+  }
 ]
