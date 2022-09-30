@@ -5,7 +5,6 @@
     "AnimeName":"Dragon Ball",
     "Description":"Overpowered"
   },
-
   {
     "id":2,
     "Name":"luffy",
@@ -161,6 +160,12 @@
         "Name": "Tanjirou",
         "AnimeName": "Demon Slayer",
         "Description": "Water Breathing User"
+    },
+     {
+        "id": 15,
+        "Name": "RORONOA ZORO",
+        "AnimeName": "ONE PIECE",
+        "Description": "SWORDSMAN"
     },
     {
         "id": 13,
