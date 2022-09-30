@@ -25,6 +25,12 @@
     "Description":"Smart,calm,criminal,dead"
   },
   {
+    "id":5,
+    "Name":"kitretsu",
+    "AnimeName":"kitemanu",
+    "Description":"Smart,calm,dead,funny"
+  },
+  {
     "id":6,
     "Name":"Nami",
     "AnimeName":"One Piece",
