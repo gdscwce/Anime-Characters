@@ -132,6 +132,36 @@
         "Description": "Smart,calm,criminal,dead"
     },
     {
+        "id": 8,
+        "Name": "Deamon Slayer",
+        "AnimeName": "Deamon Slayer",
+        "Description": "Adventure fiction, Dark fantasy, Martial Art"
+    },
+    {
+        "id": 1,
+        "Name": "Goku",
+        "AnimeName": "Dragon Ball",
+        "Description": "Overpowered"
+    },
+    {
+        "id": 2,
+        "Name": "luffy",
+        "AnimeName": "One piece",
+        "Description": "Rubber man"
+    },
+    {
+        "id": 3,
+        "Name": "Naruto",
+        "AnimeName": "Naruto",
+        "Description": "Overpowered"
+    },
+    {
+        "id": 4,
+        "Name": "Light Yagame",
+        "AnimeName": "Death note",
+        "Description": "Smart,calm,criminal,dead"
+    },
+    {
         "id": 5,
         "Name": "Sakura",
         "AnimeName": "Naruto",
@@ -176,6 +206,16 @@
     {
         "id": 12,
         "Name": "Tanjirou",
+        "AnimeName": "Demon Slayer",
+        "Description": "Water Breathing User"
+    }
+    {
+        "id": 13,
+        "Name": "Ken Kaneki",
+        "AnimeName": "tokyo Ghoul",
+        "Description": "main protagonist of Tokyo"
+    },
+    {
         "AnimeName": "Demon Slayer",
         "Description": "Water Breathing User"
     },
