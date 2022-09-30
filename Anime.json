@@ -261,5 +261,11 @@
         "Name": "Kazuya",
         "AnimeName": "Tsugumomo",
         "Description": "Anime Hero"
+   },
+   {
+        "id": 21,
+        "Name": "Shigeo Kageyama(MOB)",
+        "AnimeName": "Mob Psycho 100",
+        "Description": "vast powers"
    }
    ]
