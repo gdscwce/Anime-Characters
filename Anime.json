@@ -52,27 +52,27 @@
     "Name":"Ein Zhul Ghol",
     "AnimeName":"Overlord",
     "Description":"Sorcerer King"
-  }
+  },
  {
-    "id":6,
+    "id":9,
     "Name":"Sakura",
     "AnimeName":"Naruto",
     "Description":"Medical ninja"
   },
 {
-    "id":6,
+    "id":10,
     "Name":"Itachi",
     "AnimeName":"Naruto",
     "Description":"Akatski Member, Brother of Sasuke, Clan Killer"
   },
 {
-    "id":69,
+    "id":11,
     "Name":"Saitama",
     "AnimeName":"One Punch Man",
     "Description":"One Punch KO"
-  }
+  },
 {
-    "id":6,
+    "id":12,
     "Name":"one piece",
     "AnimeName":"crocodile",
     "Description":"Emperor of sea"
