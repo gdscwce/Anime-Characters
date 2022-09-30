@@ -24,6 +24,12 @@
     "Name":"Light Yagame",
     "AnimeName":"Death note",
     "Description":"Smart,calm,criminal,dead"
+  }
+  {
+    "id":6,
+    "Name":"Nami",
+    "AnimeName":"One Piece",
+    "Description":"navigator,clever,cunning,bossy"
 
   }
 ]
