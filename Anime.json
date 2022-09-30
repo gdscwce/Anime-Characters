@@ -76,6 +76,11 @@
     "Name":"one piece",
     "AnimeName":"crocodile",
     "Description":"Emperor of sea"
-  }
-
+  },
+{
+    "id":15,
+    "Name":"Tanjirou",
+    "AnimeName":"Demon Slayer",
+    "Description":"Water Breathing User"
+  },
 ]
