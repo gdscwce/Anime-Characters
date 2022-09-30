@@ -83,4 +83,11 @@
         "AnimeName": "Demon Slayer",
         "Description": "Water Breathing User"
     }
+    ,
+    {
+        "id": 15,
+        "Name": "Ban",
+        "AnimeName": "7 deadly sins",
+        "Description": "Immortal"
+    }
 ]
