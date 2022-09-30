@@ -29,53 +29,20 @@
   },
   {
     "id":5,
-    "Name":"L Lawliet",
-    "AnimeName":"Death note",
-    "Description":"Smart,calm,criminal,dead"
-  },
-  
-  {
-    "id":6,
     "Name":"Sakura",
     "AnimeName":"Naruto",
     "Description":"Medical ninja"
   },
-  
   {
-    "id":7,
+    "id":6,
     "Name":"Ainz Ooal Gown",
     "AnimeName":"Overlord",
     "Description":"Creator of Pandora's Actor"
   },
-  {
-    "id":8,
-    "Name":"Ein Zhul Ghol",
-    "AnimeName":"Overlord",
-    "Description":"Sorcerer King"
-  }
- {
-    "id":6,
-    "Name":"Sakura",
+   {
+    "id":7,
+    "Name":"kakashi",
     "AnimeName":"Naruto",
-    "Description":"Medical ninja"
+    "Description":"ninja ,cold , teacher"
   },
-{
-    "id":6,
-    "Name":"Itachi",
-    "AnimeName":"Naruto",
-    "Description":"Akatski Member, Brother of Sasuke, Clan Killer"
-  },
-{
-    "id":69,
-    "Name":"Saitama",
-    "AnimeName":"One Punch Man",
-    "Description":"One Punch KO"
-  }
-{
-    "id":6,
-    "Name":"one piece",
-    "AnimeName":"crocodile",
-    "Description":"Emperor of sea"
-  }
-
 ]
