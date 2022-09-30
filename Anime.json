@@ -39,10 +39,35 @@
     "AnimeName":"Overlord",
     "Description":"Creator of Pandora's Actor"
   },
+
    {
     "id":7,
     "Name":"kakashi",
     "AnimeName":"Naruto",
+    "Description":"Sensei,Cool,Strong,All Knowing"
+   },
+   {
+    "id":8,
+    "Name":"Ein Zhul Ghol",
+    "AnimeName":"Overlord",
+    "Description":"Sorcerer King"
+  },
+{
+    "id":9,
+    "Name":"Itachi",
+    "AnimeName":"Naruto",
     "Description":"ninja ,cold , teacher"
   },
+  {
+    "id":10,
+    "Name":"Saitama",
+    "AnimeName":"One Punch Man",
+    "Description":"One Punch KO"
+  },
+{
+    "id":11,
+    "Name":"Crocodile",
+    "AnimeName":"One Piece",
+    "Description":"Emperor of sea"
+  }
 ]
