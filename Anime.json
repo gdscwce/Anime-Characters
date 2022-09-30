@@ -174,4 +174,10 @@
         "AnimeName": "7 deadly sins",
         "Description": "Immortal"
    },
+      {
+        "id": 20,
+        "Name": "Kazuya",
+        "AnimeName": "Tsugumomo",
+        "Description": "Anime Hero"
+   }
 ]
