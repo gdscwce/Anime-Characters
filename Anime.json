@@ -29,18 +29,26 @@
   },
   {
     "id":5,
+    "Name":"L Lawliet",
+    "AnimeName":"Death note",
+    "Description":"Smart,calm,criminal,dead"
+  },
+  
+  {
+    "id":6,
     "Name":"Sakura",
     "AnimeName":"Naruto",
     "Description":"Medical ninja"
   },
+  
   {
-    "id":6,
+    "id":7,
     "Name":"Ainz Ooal Gown",
     "AnimeName":"Overlord",
     "Description":"Creator of Pandora's Actor"
   },
   {
-    "id":7,
+    "id":8,
     "Name":"Ein Zhul Ghol",
     "AnimeName":"Overlord",
     "Description":"Sorcerer King"
