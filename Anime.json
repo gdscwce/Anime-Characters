@@ -5,6 +5,12 @@
     "AnimeName":"Dragon Ball",
     "Description":"Overpowered"
   },
+   {
+    "id":2,
+    "Name":"Naruto",
+    "AnimeName":"Naruto",
+    "Description":"Overpowered"
+  },
   {
   }
 ]
