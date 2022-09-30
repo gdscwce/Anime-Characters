@@ -43,6 +43,36 @@
     "Description":"Smart,Shy,Introvert,Ghoul,Hero"
   },
   {
+    "id":8,
+    "Name":"Ein Zhul Ghol",
+    "AnimeName":"Overlord",
+    "Description":"Sorcerer King"
+  },
+  {
+    "id":7,
+    "Name":"Itachi Uchiha",
+    "AnimeName":"Naruto",
+    "Description":"prominent member of Akatsuki"
+  },
+  {
+    "id":8,
+    "Name":"Itachi",
+    "AnimeName":"Naruto",
+    "Description":"Akatski Member, Brother of Sasuke, Clan Killer"
+  },
+  {
+    "id":8,
+    "Name":"Saitama",
+    "AnimeName":"One Punch Man",
+    "Description":"One Punch KO"
+  },
+  {
+    "id":9,
+    "Name":"one piece",
+    "AnimeName":"crocodile",
+    "Description":"Emperor of sea"
+  },
+  {
     "id":5,
     "Name":"Eren Yeager,
     "AnimeName":"Attack On Titan",
@@ -55,10 +85,10 @@
      "Description": "Overpowered"
     },
     {
-        "id": 2,
-        "Name": "luffy",
-        "AnimeName": "One piece",
-        "Description": "Rubber man"
+     "id": 2,
+     "Name": "luffy",
+     "AnimeName": "One piece",
+     "Description": "Rubber man"
     },
     {
         "id": 3,
