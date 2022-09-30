@@ -19,6 +19,7 @@
     "AnimeName":"Naruto",
     "Description":"Overpowered"
   },
+
   {
     "id":4,
     "Name":"Light Yagame",
@@ -31,5 +32,11 @@
     "Name":"Sakura",
     "AnimeName":"Naruto",
     "Description":"Medical ninja"
-  }
+  },
+{
+    "id":6,
+    "Name":"Itachi Uchiha",
+    "AnimeName":"Naruto",
+    "Description":"prominent member of Akatsuki"
+  },
 ]
