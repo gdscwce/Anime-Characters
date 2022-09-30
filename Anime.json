@@ -199,6 +199,12 @@
         "Description": "Water Breathing User"
     },
     {
+        "id": 15,
+        "Name": "Goku",
+        "AnimeName": "Dragon Ball",
+        "Description": "Overpowered"
+    },
+{
         "id":15,
         "Name": "Gojo Satoru"
         "AnimeName": "Jujutsu Kaisen"
