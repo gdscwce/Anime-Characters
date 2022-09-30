@@ -5,10 +5,24 @@
     "AnimeName":"Dragon Ball",
     "Description":"Overpowered"
   },
+
     {
     "id":2,
     "Name":"luffy",
     "AnimeName":"One piece",
     "Description":"Rubber man"
+
+   {
+    "id":3,
+    "Name":"Naruto",
+    "AnimeName":"Naruto",
+    "Description":"Overpowered"
+  },
+  {
+    "id":4,
+    "Name":"Light Yagame",
+    "AnimeName":"Death note",
+    "Description":"Smart,calm,criminal,dead"
+
   }
 ]
