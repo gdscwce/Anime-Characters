@@ -262,4 +262,10 @@
         "AnimeName": "Tsugumomo",
         "Description": "Anime Hero"
    }
+{
+        "id": 25,
+        "Name": "Gold D. Roger",
+        "AnimeName": "One Piece",
+        "Description": "King of the Pirates"
+   }
    ]
