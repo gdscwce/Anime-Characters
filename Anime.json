@@ -97,7 +97,7 @@
     },
     {
         "id": 4,
-        "Name": "Light Yagame",
+        "Name": "Light Yagami",
         "AnimeName": "Death note",
         "Description": "Smart,calm,criminal,dead"
     },
@@ -295,6 +295,13 @@
         "Name": "Shinpachi shimura",
         "AnimeName": "Gintama",
         "Description": "Shinpachi helper"
+   },
+    
+  {
+        "id": 26,
+        "Name": "pikachu",
+        "AnimeName": "pokemon",
+        "Description": "thunderbolt"
    }
 
    ]
