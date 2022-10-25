@@ -19,7 +19,7 @@
   },
   {
     "id":4,
-    "Name":"Light Yagame",
+    "Name":"Light Yagam",
     "AnimeName":"Death note",
     "Description":"Smart,calm,criminal,dead"
   },
@@ -267,18 +267,18 @@
         "Name": "Shigeo Kageyama(MOB)",
         "AnimeName": "Mob Psycho 100",
         "Description": "vast powers"
-   }
-,
+   },
+
    {
         "id": 22,
-        "Name": ",
-   {
-        "id": 21,
-        "Name": "Shigeo Kageyama(MOB)",
+        "Name": "levi ackerman",
         "AnimeName": " Attack on Titan Part 1",
         "Description": "Levi Ackerman is the tritagonist of the Attack on Titan anime/manga series. He is a captain in the Survey Corps, known to be the strongest soldier alive. He has a harsh and unsocial personality, but is well-regarded by his subordinates and he cares about their lives."
-   }",
-        "AnimeName": "Mob Psycho 100",
-        "Description": "vast powers"
-   }
+   },
+   {
+        "id": 22,
+        "Name": "whitebeard",
+        "AnimeName": "one piece",
+        "Description": "The greatest Emperor of sea"
+   },
    ]
