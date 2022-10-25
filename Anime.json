@@ -262,7 +262,14 @@
         "AnimeName": "Tsugumomo",
         "Description": "Anime Hero"
    },
-<
+
+{
+        "id": 4421,
+        "Name": "Chika Fujiwara",
+        "AnimeName": "Love is War",
+        "Description": "Sweet,Cute,Cunning"
+   },
+
   {
       "id":5521,
       "Name":"Levi Ackerman",
@@ -311,5 +318,6 @@
         "AnimeName": "Kagoyasama:Love is war",
         "Description": "president"
    }
+
 
    ]
