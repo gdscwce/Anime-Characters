@@ -19,7 +19,7 @@
   },
   {
     "id":4,
-    "Name":"Light Yagame",
+    "Name":"Light Yagam",
     "AnimeName":"Death note",
     "Description":"Smart,calm,criminal,dead"
   },
@@ -73,7 +73,7 @@
   },
   {
     "id":5,
-    "Name":"Eren Yeager,
+    "Name":"Eren Yeager",
     "AnimeName":"Attack On Titan",
     "Description":"Hardheaded, Strong-willed, Passionate, Impulsive"
    },
@@ -208,7 +208,7 @@
         "Name": "Tanjirou",
         "AnimeName": "Demon Slayer",
         "Description": "Water Breathing User"
-    }
+    },
     {
         "id": 13,
         "Name": "Ken Kaneki",
@@ -267,5 +267,34 @@
         "Name": "Sasuke",
         "AnimeName": "Naruto",
         "Description": "last Uchiha"
+     },
+      
+  
+
+   {
+        "id": 22,
+        "Name": "levi ackerman",
+        "AnimeName": " Attack on Titan Part 1",
+        "Description": "Levi Ackerman is the tritagonist of the Attack on Titan anime/manga series. He is a captain in the Survey Corps, known to be the strongest soldier alive. He has a harsh and unsocial personality, but is well-regarded by his subordinates and he cares about their lives."
    },
+   {
+        "id": 23,
+        "Name": "whitebeard",
+        "AnimeName": "one piece",
+        "Description": "The greatest Emperor of sea"
+   },
+ {
+        "id": 24,
+        "Name": "Shigeo Kageyama(MOB)",
+        "AnimeName": "Mob Psycho 100",
+        "Description": "vast powers"
+
+   },
+{
+        "id": 25,
+        "Name": "Shinpachi shimura",
+        "AnimeName": "Gintama",
+        "Description": "Shinpachi helper"
+   }
+
    ]
