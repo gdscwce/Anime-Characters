@@ -208,7 +208,7 @@
         "Name": "Tanjirou",
         "AnimeName": "Demon Slayer",
         "Description": "Water Breathing User"
-    }
+    },
     {
         "id": 13,
         "Name": "Ken Kaneki",
@@ -262,14 +262,14 @@
         "AnimeName": "Tsugumomo",
         "Description": "Anime Hero"
    },
-      {
+     {
         "id": 21,
-        "Name": "Shinpachi shimura",
-        "AnimeName": "Gintama",
-        "Description": "Shinpachi helper"
-   }
-
-  ,
+        "Name": "Sasuke",
+        "AnimeName": "Naruto",
+        "Description": "last Uchiha"
+     },
+      
+  
 
    {
         "id": 22,
@@ -288,5 +288,13 @@
         "Name": "Shigeo Kageyama(MOB)",
         "AnimeName": "Mob Psycho 100",
         "Description": "vast powers"
+
    },
+{
+        "id": 25,
+        "Name": "Shinpachi shimura",
+        "AnimeName": "Gintama",
+        "Description": "Shinpachi helper"
+   }
+
    ]
